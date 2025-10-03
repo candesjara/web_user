@@ -1,4 +1,4 @@
-📌 Proyecto Django con API y Pruebas Automatizadas
+📌 Proyecto Django con API y Pruebas Automatizadas...
 
 📖 Descripción
 
